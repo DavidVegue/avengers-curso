@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Paakito el chocolatero
+* Pakito el chocolatero
