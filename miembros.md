@@ -17,4 +17,5 @@
 * Wasp
 * Antman
 * Nick Fury
+* Vegue
 
